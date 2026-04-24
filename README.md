@@ -290,5 +290,3 @@ WS_PORT=3000
 ---
 
 <p align="center">Built for Tunibot 🤖 — ROS 2 Humble · Node.js · rclnodejs</p>
-#   R O S - 2 - W e b - I n t e r f a c e  
- 
